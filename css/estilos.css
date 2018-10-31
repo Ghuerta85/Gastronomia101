@@ -1,0 +1,72 @@
+body{
+	background-image: url("/imagenes/admon1.jpg");
+}
+
+header{
+	background: #90271e;
+	color: #fff;
+	text-align: center;
+}
+
+.main {
+	background: #b12b0c;
+}
+
+.color1{
+	background: #34495e;
+	color:#fff;
+}
+
+aside{
+	background: #cdc8c7;
+	color:#fff;
+}
+
+footer{
+	background: #16a085;
+	color:#fff;
+}
+
+h3 {
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+h1{
+	font-size: 4em;
+	text-align: center;
+}
+
+p {
+	font-size: 2em;
+	font-family: Robot;
+	text-align: center;
+}
+
+div .clock{
+	font-size: 20px;
+	text-align: center;
+}
+
+label {
+	font-size: 24px;
+}
+
+img {
+	height: 250;
+	width: 350;
+}
+
+aside img {
+	height: 300;
+	width: 300;
+
+}
+
+.parrafo{
+	font-size: 10px;
+	text-align: center;
+}
